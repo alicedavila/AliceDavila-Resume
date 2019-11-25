@@ -1,6 +1,10 @@
+                      Welcome to my Github page  
+<br>
 
-# Welcome to LearnCS8 Resume Website
+                         Follow the Link Below 
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+              GitHub Profile:https://github.com/alicedavila
+      Resume: https://7042aafbb4fe42b49339b7335f6af414.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html
+      
+      ![Description of Image](img/Screenshot(3).png)
